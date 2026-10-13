@@ -2,6 +2,11 @@
 
 Un semplice gioco del **Tris** (Tic-Tac-Toe) per due giocatori, realizzato con **Vue 3**, **TypeScript** e la Composition API (`<script setup>`).
 
+
+## Come avviarlo
+
+Per provare direttamente il progetto,cliccare sul link di seguito : 
+
 ## ✨ Funzionalità
 
 - Partita a due giocatori sullo stesso dispositivo (X inizia sempre)
@@ -17,35 +22,6 @@ Un semplice gioco del **Tris** (Tic-Tac-Toe) per due giocatori, realizzato con *
 - [TypeScript](https://www.typescriptlang.org/)
 - CSS scoped
 
-## 🚀 Come iniziare
-
-### Prerequisiti
-
-- [Node.js](https://nodejs.org/) 18 o superiore
-- npm (oppure pnpm / yarn)
-
-### Installazione
-
-```bash
-# Clona il repository
-git clone https://github.com/<tuo-utente>/<nome-repo>.git
-cd <nome-repo>
-
-# Installa le dipendenze
-npm install
-
-# Avvia il server di sviluppo
-npm run dev
-```
-
-Poi apri l'indirizzo mostrato nel terminale (di solito `http://localhost:5173`).
-
-### Build di produzione
-
-```bash
-npm run build
-npm run preview
-```
 
 ## 🎮 Come si gioca
 
@@ -75,15 +51,3 @@ Tutta la logica è contenuta in `App.vue`:
 src/
 └── App.vue    # Componente principale: template, logica e stili
 ```
-
-## 💡 Idee per sviluppi futuri
-
-- [ ] Modalità contro il computer (con algoritmo minimax)
-- [ ] Salvataggio del punteggio in `localStorage`
-- [ ] Alternanza del giocatore che inizia
-- [ ] Animazioni e suoni
-- [ ] Possibilità di personalizzare i nomi dei giocatori
-
-## 📄 Licenza
-
-Distribuito con licenza [MIT](LICENSE). Sentiti libero di usare e modificare il progetto.

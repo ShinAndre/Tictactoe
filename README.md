@@ -44,10 +44,3 @@ Tutta la logica è contenuta in `App.vue`:
 | `status` | Testo mostrato sopra la griglia (turno, vittoria o pareggio) |
 | `play(i)` | Gestisce la mossa, aggiorna il punteggio e cambia turno |
 | `reset()` | Svuota la griglia e riporta il turno a X |
-
-## 📁 Struttura
-
-```
-src/
-└── App.vue    # Componente principale: template, logica e stili
-```

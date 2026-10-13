@@ -5,7 +5,7 @@ Un semplice gioco del **Tris** (Tic-Tac-Toe) per due giocatori, realizzato con *
 
 ## Come avviarlo
 
-Per provare direttamente il progetto,cliccare sul link di seguito : 
+Per provare direttamente il progetto,cliccare sul link di seguito : https://tictactoe-game-projects.netlify.app/
 
 ## ✨ Funzionalità
 
